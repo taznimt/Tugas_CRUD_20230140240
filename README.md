@@ -155,8 +155,7 @@ Response Success
   "data": null
 }
 
-|Deskripsi|Dokumentasi|
-|---|---|
+
 |Halaman Utama|<img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/321f6c4a-fab9-4653-b86c-613d52262497" />|
 |Tambah Data|<img width="1918" height="621" alt="image" src="https://github.com/user-attachments/assets/438ccf43-6d1c-47c2-be1c-78b92a0f629e" />|
 |Berhasil Menambah Data|<img width="1917" height="1007" alt="image" src="https://github.com/user-attachments/assets/817f67bb-7d32-4157-9d16-a296cc960893" />|
