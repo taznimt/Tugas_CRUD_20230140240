@@ -207,7 +207,7 @@ Digunakan untuk menghapus data KTP berdasarkan id.
 ### Alamat Wajib Diisi
 ![Alamat wajib diisi](./screenshoot/img_13.png)
 
-### Jenis Kelamin Wajib Diisi
+### Tanggal Lahir Wajib Diisi
 ![Jenis Kelamin wajib diisi](./screenshoot/img_14.png)
 
 ### Database
