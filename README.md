@@ -155,11 +155,16 @@ Response Success
   "data": null
 }
 
-|Deskripsi|Dokumentasi|
-|---|---|
-|Halaman Utama|<img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/321f6c4a-fab9-4653-b86c-613d52262497" />|
-|Tambah Data|<img width="1918" height="621" alt="image" src="https://github.com/user-attachments/assets/438ccf43-6d1c-47c2-be1c-78b92a0f629e" />|
-|Berhasil Menambah Data|<img width="1917" height="1007" alt="image" src="https://github.com/user-attachments/assets/817f67bb-7d32-4157-9d16-a296cc960893" />|
+
+##Halaman Utama##
+#<img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/321f6c4a-fab9-4653-b86c-613d52262497" />#
+
+##Tambah Data##
+#<img width="1918" height="621" alt="image" src="https://github.com/user-attachments/assets/438ccf43-6d1c-47c2-be1c-78b92a0f629e" />#
+
+##Berhasil Menambah Data##
+#<img width="1917" height="1007" alt="image" src="https://github.com/user-attachments/assets/817f67bb-7d32-4157-9d16-a296cc960893" />#
+
 |terjadi error karena data sudah ada|<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/ef45eef0-c0a8-460b-b95d-5862721ba68b" />|
 |Edit data|<img width="1895" height="819" alt="image" src="https://github.com/user-attachments/assets/b47254ac-a176-4a9f-8522-1aae04fbc9ca" />|
 |Berhasil edit data|<img width="1909" height="1003" alt="image" src="https://github.com/user-attachments/assets/35704b49-1cc1-4195-be77-c1d9113b6edc" />|
