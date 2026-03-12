@@ -155,9 +155,10 @@ Response Success
   "data": null
 }
 
-## Screenshot
+## screenshoot
 
 ### Halaman Utama
+![Halaman Utama](screenshoot/img.png)
 ![Data berhasil di tambahkan](screenshoot/img_2.png)
 ![Tambah Data](screenshoot/img_1.png)
 ![Edit data](screenshoot/img_3.png)
