@@ -1,0 +1,160 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    background: linear-gradient(135deg, #f6f0ff, #eef6ff);
+    color: #374151;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 0 16px 30px;
+}
+
+h1, h2 {
+    margin-top: 0;
+    color: #6d5bd0;
+}
+
+.subtitle {
+    margin-top: -10px;
+    color: #7b88b3;
+}
+
+.card {
+    background: #ffffff;
+    border-radius: 16px;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 10px 25px rgba(144, 163, 219, 0.18);
+    border: 1px solid #e8e4ff;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 16px;
+}
+
+label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #5f6fb2;
+}
+
+input, textarea, select {
+    width: 100%;
+    padding: 12px;
+    border-radius: 10px;
+    border: 1px solid #d6dcf8;
+    background: #fbfcff;
+    color: #374151;
+}
+
+input:focus, textarea:focus, select:focus {
+    outline: none;
+    border-color: #a78bfa;
+    box-shadow: 0 0 0 3px rgba(167, 139, 250, 0.2);
+}
+
+.actions, .table-header {
+    margin-top: 16px;
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn {
+    border: none;
+    padding: 10px 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: 0.2s ease;
+}
+
+.btn:hover {
+    transform: translateY(-1px);
+}
+
+.btn.primary {
+    background: linear-gradient(135deg, #b197fc, #7dd3fc);
+    color: white;
+}
+
+.btn.secondary {
+    background: #e8f1ff;
+    color: #4f6fae;
+}
+
+.btn.warning {
+    background: #c4b5fd;
+    color: white;
+}
+
+.btn.danger {
+    background: #93c5fd;
+    color: white;
+}
+
+.table-wrapper {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 12px;
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+th, td {
+    border-bottom: 1px solid #edf2ff;
+    padding: 12px;
+    text-align: left;
+    vertical-align: top;
+}
+
+th {
+    background: linear-gradient(135deg, #f3e8ff, #e0f2fe);
+    color: #5b63a8;
+}
+
+.notification {
+    padding: 14px 16px;
+    border-radius: 12px;
+    margin-top: 16px;
+    font-weight: 600;
+}
+
+.notification.success {
+    background: #ede9fe;
+    color: #6d28d9;
+}
+
+.notification.error {
+    background: #dbeafe;
+    color: #1d4ed8;
+}
+
+.hidden {
+    display: none;
+}
+
+.empty {
+    text-align: center;
+    color: #7b88b3;
+}
+
+.action-group {
+    display: flex;
+    gap: 8px;
+}
